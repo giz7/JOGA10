@@ -4,6 +4,12 @@
 
 O JOGA10 é uma plataforma criada para aproximar jogadores de futebol amador, facilitar a organização de partidas e transformar aquela pelada que quase aconteceu em um jogo marcado, com time completo e gente disposta a jogar.
 
+## Prévia da landing page
+
+![Captura de tela da landing page do JOGA10](src/assets/landing-page-print.png)
+
+*Captura de tela da landing page atual do JOGA10.*
+
 ## Como surgiu a ideia
 
 Quem joga futebol amador conhece o problema: chega o dia da partida, alguém desiste, faltam jogadores para completar os times e o grupo inteiro precisa correr atrás de substitutos. Muitas vezes, a vontade de jogar existe, mas a falta de pessoas disponíveis, próximas e interessadas acaba cancelando a pelada.
